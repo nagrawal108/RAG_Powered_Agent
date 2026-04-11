@@ -1,0 +1,102 @@
+COMPANY FAQ - TechStore Customer Support
+
+========================================
+SHIPPING & DELIVERY
+========================================
+
+Q: What is your shipping policy?
+A: We offer multiple shipping options to meet your needs. Standard shipping takes 5-7 business days and costs $5.99. Express shipping takes 2-3 business days and costs $12.99. Premium overnight shipping is available for $24.99. Free standard shipping is available on all orders over $50. All orders are processed within 1-2 business days.
+
+Q: Do you ship internationally?
+A: Yes, we ship to over 150 countries worldwide. International shipping typically takes 10-21 business days depending on the destination. Shipping costs are calculated at checkout based on your location and order weight. Please note that customers are responsible for any customs duties or import taxes imposed by their country.
+
+Q: How can I track my order?
+A: Once your order ships, you'll receive a confirmation email with a tracking number. You can track your package by clicking the tracking link in the email or by logging into your account and viewing your order history. Tracking information is typically available within 24 hours of shipment.
+
+========================================
+RETURNS & REFUNDS
+========================================
+
+Q: What is your return policy?
+A: We offer a 30-day return policy for all products. Items must be in their original condition, unused, and in the original packaging. To initiate a return, log into your account, go to Order History, and select the return option. You'll receive a prepaid return shipping label via email. Once we receive and inspect your return, your refund will be processed within 5-7 business days.
+
+Q: Are there any items that cannot be returned?
+A: Yes, for hygiene and safety reasons, we cannot accept returns on opened software, personal care items, earbuds, or customized/personalized products. Digital downloads and gift cards are also non-returnable. All other items can be returned within 30 days if they meet our return conditions.
+
+Q: How long does it take to get a refund?
+A: Once we receive your returned item, it takes 3-5 business days to inspect and process the return. After approval, refunds are issued to your original payment method within 5-7 business days. Please note that it may take an additional 3-5 business days for the refund to appear in your account depending on your bank or credit card company.
+
+========================================
+PAYMENT & PRICING
+========================================
+
+Q: What payment methods do you accept?
+A: We accept all major credit cards including Visa, Mastercard, American Express, and Discover. We also accept PayPal, Apple Pay, Google Pay, and Shop Pay. For orders over $500, we offer financing options through Affirm with monthly payment plans available.
+
+Q: Is it safe to use my credit card on your website?
+A: Absolutely. We use industry-standard SSL encryption to protect your payment information. We are PCI DSS compliant and never store your complete credit card information on our servers. All transactions are processed through secure, encrypted connections.
+
+Q: Do you offer price matching?
+A: Yes, we offer a price match guarantee. If you find an identical item at a lower price from an authorized retailer within 14 days of your purchase, we'll refund you the difference. Simply contact our customer service team with proof of the lower price, such as a screenshot or link to the competitor's website.
+
+========================================
+ACCOUNT & ORDERS
+========================================
+
+Q: How do I create an account?
+A: Click the "Sign Up" button in the top right corner of our website. You'll need to provide your email address and create a password. You can also sign up using your Google or Facebook account for faster registration. Having an account allows you to track orders, save payment information, and receive exclusive offers.
+
+Q: I forgot my password. How do I reset it?
+A: Click the "Sign In" button, then select "Forgot Password?" Enter your email address and we'll send you a password reset link. Follow the instructions in the email to create a new password. If you don't receive the email within 5 minutes, please check your spam folder.
+
+Q: Can I cancel or modify my order?
+A: You can cancel or modify your order within 2 hours of placing it by logging into your account and going to Order History. After 2 hours, orders enter our processing system and cannot be changed. If you need to make changes after this time, you can return the items once you receive them using our standard return process.
+
+Q: How do I apply a promo code?
+A: During checkout, you'll see a field labeled "Promo Code" or "Discount Code" on the payment page. Enter your code exactly as it appears (case-sensitive) and click "Apply." The discount will be reflected in your order total. Please note that promo codes cannot be combined and typically cannot be applied to items already on sale.
+
+========================================
+PRODUCT INFORMATION
+========================================
+
+Q: Do you offer warranties on your products?
+A: All products come with the manufacturer's standard warranty. Most electronics include a 1-year limited warranty covering defects in materials and workmanship. We also offer optional extended warranty plans for 2 or 3 years at checkout. Extended warranties cover repairs, replacements, and in some cases, accidental damage protection.
+
+Q: Are your products authentic?
+A: Yes, we only sell 100% authentic products sourced directly from manufacturers and authorized distributors. Every product comes with proper documentation and manufacturer warranty. We guarantee that all items are genuine and never sell counterfeit goods.
+
+Q: How do I know which product is right for me?
+A: Each product page includes detailed specifications, customer reviews, and comparison tools. You can also use our live chat feature to speak with a product specialist who can help you choose the right item based on your needs. We also have buying guides and blog posts for popular product categories.
+
+========================================
+CUSTOMER SERVICE
+========================================
+
+Q: How can I contact customer support?
+A: We offer multiple ways to reach us. You can email us at support@techstore.com (we respond within 24 hours), use our live chat feature available Monday-Friday 9 AM to 6 PM EST, or call us at 1-800-TECH-HELP (1-800-832-4435). We also have an extensive help center with articles and video tutorials.
+
+Q: What are your customer service hours?
+A: Our customer service team is available Monday through Friday from 9:00 AM to 6:00 PM Eastern Time. Our live chat and phone support operate during these hours. Email support is available 24/7, and we respond to all emails within 24 hours, usually much sooner.
+
+Q: Do you have a physical store location?
+A: We are primarily an online retailer, but we do have a flagship showroom located at 123 Tech Avenue, San Francisco, CA 94105. Our showroom is open Monday-Saturday from 10 AM to 7 PM and Sunday from 11 AM to 5 PM. You can view products in person, speak with specialists, and pick up online orders.
+
+========================================
+LOYALTY & REWARDS
+========================================
+
+Q: Do you have a rewards program?
+A: Yes! Our TechStore Rewards program is completely free. Earn 1 point for every dollar spent. When you reach 100 points, you'll receive a $5 reward certificate. Members also get early access to sales, birthday discounts, and exclusive offers. Join by creating an account or signing up during checkout.
+
+Q: How do I use my reward points?
+A: Your reward points automatically convert to reward certificates when you reach 100 points. These certificates will appear in your account and can be applied at checkout like a promo code. Reward certificates are valid for 90 days from the date they are issued and can be used on any purchase.
+
+========================================
+TECHNICAL SUPPORT
+========================================
+
+Q: Do you provide technical support for products?
+A: Yes, we offer basic technical support for all products we sell. Our team can help with setup, troubleshooting common issues, and answering questions about product features. For complex technical issues or warranty repairs, we'll connect you directly with the manufacturer's technical support team.
+
+Q: What if my product arrives damaged or defective?
+A: If your product arrives damaged or defective, please contact us immediately within 7 days of delivery. We'll arrange for a replacement to be sent to you at no charge, and provide a prepaid label to return the defective item. In most cases, we can expedite shipping on the replacement to minimize your inconvenience.

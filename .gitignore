@@ -1,0 +1,11 @@
+# Secrets - never commit these
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Vector store (can be rebuilt)
+faiss_index/
